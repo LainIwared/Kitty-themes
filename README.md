@@ -5,6 +5,10 @@ Welcome to a collection of **7 premium, hand-calibrated, low-fatigue color palet
 
 Instead of chasing typical screaming-neon tropes, these themes are crafted to deliver striking atmospheres, deep background layers, and highly legible, organic text contrast that stays comfortable over long sessions.
 
+For the terminal itself, i will link the creator and also another themes repo as credit for my idea
+
+https://github.com/kovidgoyal/kitty
+https://github.com/dexpota/kitty-themes
 ---
 
 ## 🎨 The Themes
