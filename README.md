@@ -7,8 +7,8 @@ Instead of chasing typical screaming-neon tropes, these themes are crafted to de
 
 For the terminal itself, i will link the creator and also another themes repo as credit for my idea
 
-https://github.com/kovidgoyal/kitty
-https://github.com/dexpota/kitty-themes
+* https://github.com/kovidgoyal/kitty
+* https://github.com/dexpota/kitty-themes
 ---
 
 ## 🎨 The Themes
