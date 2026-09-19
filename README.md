@@ -49,7 +49,7 @@ Press `Ctrl+Shift+F5` inside your active Kitty terminal to instantly hot-reload 
 This installer script works across all Linux distributions. Simply open your terminal, clone the repository, and run the wizard:
 
 ```bash
-git clone https://github.com/Lainlwared/Kitty-themes.git
+git clone https://github.com/Lainiwared/Kitty-themes.git
 cd Kitty-themes
 chmod +x install.sh
 ./install.sh
