@@ -44,3 +44,13 @@ include ./matrix_night.conf
 
 ### 4. Live Reload
 Press `Ctrl+Shift+F5` inside your active Kitty terminal to instantly hot-reload your interface and check out your brand new environment!
+
+### ⚡ Automated Script Installation (Universal)
+This installer script works across all Linux distributions. Simply open your terminal, clone the repository, and run the wizard:
+
+```bash
+git clone https://github.com
+cd Kitty-themes
+chmod +x install.sh
+./install.sh
+```
