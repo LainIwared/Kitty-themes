@@ -31,6 +31,10 @@ Instead of chasing typical screaming-neon tropes, these themes are crafted to de
 
 
 *   **Red Dominion:** A regal imperial theme blending a rich velvet wine-burgundy (`#420D14`) with majestic gold leaf.
+<img width="1263" height="1298" alt="image" src="https://github.com/user-attachments/assets/b93aa4e9-4e66-4180-b0e9-28ed97649ba5" />
+
+*   **Velvet Carbon:** A premium, low-fatigue charcoal blue-gray base (`#222831`) featuring soft, luxurious moon cashmere accents.
+  <img width="1266" height="1300" alt="image" src="https://github.com/user-attachments/assets/af5a3bdf-7f8f-43a0-9f85-2ac828852710" />
 
 ---
 
